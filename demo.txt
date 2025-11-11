@@ -1,0 +1,4 @@
+Hello, this is a demo file.
+We are practicing file I/O in Python.
+Hello, this is a demo file.
+We are practicing file I/O in Python.
